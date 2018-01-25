@@ -1,0 +1,23 @@
+{
+  "name": "diff-hg-example",
+  "version": "1.0.0",
+  "description": "An example of diff-hg usage",
+  "main": "index.js",
+  "dependencies": {
+    "diff-hg": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cann0neer/diff-hg-example.git"
+  },
+  "author": "cannoneer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cann0neer/diff-hg-example/issues"
+  },
+  "homepage": "https://github.com/cann0neer/diff-hg-example#readme"
+}
